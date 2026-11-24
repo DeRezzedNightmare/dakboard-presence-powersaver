@@ -1,5 +1,5 @@
 SPDX-License-Identifier: CC-BY-4.0
-Copyright (c) 2026 damongatenby
+Copyright (c) 2026 DeRezzedNightmare
 
 DAKboard Presence Powersaver
 
@@ -419,4 +419,6 @@ The repository contains the scripts, installer, generic device example, cron ref
 
 Code and configuration examples use MIT. Original guide prose uses Creative Commons Attribution 4.0 International. Code examples inside guides remain under MIT.
 
-Credit the original author as damongatenby. Refer to LICENSING.md, LICENSE, and LICENSES/CC-BY-4.0.txt for the full terms.
+Credit the original author as DeRezzedNightmare. Refer to LICENSING.md, LICENSE, and LICENSES/CC-BY-4.0.txt for the full terms.
+
+Project repository: https://github.com/DeRezzedNightmare/dakboard-presence-powersaver

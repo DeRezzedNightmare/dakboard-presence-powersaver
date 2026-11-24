@@ -14,6 +14,13 @@ Run the scripts on an always-on controller. Use SSH to control the separate disp
 
 The powersaver runs each minute. The absence threshold is not an exact shutoff time.
 
+## Get the code
+
+```bash
+git clone https://github.com/DeRezzedNightmare/dakboard-presence-powersaver.git
+cd dakboard-presence-powersaver
+```
+
 ## Requirements
 
 Use Bash and Python 3.9 or later on the controller. The controller also needs SSH, ping, flock, timeout, and awk.
@@ -123,5 +130,5 @@ Code and configuration examples use the [MIT license](LICENSE).
 Original guide prose uses [CC BY 4.0](LICENSES/CC-BY-4.0.txt).
 Code examples inside guides remain under MIT.
 
-Credit: damongatenby.
+Credit: DeRezzedNightmare.
 See [license scope](LICENSING.md) for the exact file groups.

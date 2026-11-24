@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # SPDX-License-Identifier: MIT
-# Copyright (c) 2026 damongatenby
+# Copyright (c) 2026 DeRezzedNightmare
 import datetime
 import fcntl
 import json

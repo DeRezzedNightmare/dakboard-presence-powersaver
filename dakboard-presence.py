@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # SPDX-License-Identifier: MIT
-# Copyright (c) 2026 damongatenby
+# Copyright (c) 2026 DeRezzedNightmare
 """Check a set of people and devices. Exit: 0 present, 1 absent, 2 unknown."""
 import argparse
 import concurrent.futures

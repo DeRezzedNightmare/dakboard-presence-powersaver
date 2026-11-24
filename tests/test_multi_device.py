@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: MIT
-# Copyright (c) 2026 damongatenby
+# Copyright (c) 2026 DeRezzedNightmare
 import importlib.util
 import json
 import os

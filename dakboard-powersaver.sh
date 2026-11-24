@@ -1,6 +1,6 @@
 #!/bin/bash
 # SPDX-License-Identifier: MIT
-# Copyright (c) 2026 damongatenby
+# Copyright (c) 2026 DeRezzedNightmare
 set -u
 export PATH=/usr/bin:/bin
 export LC_ALL=C

@@ -1,6 +1,6 @@
 #!/bin/bash
 # SPDX-License-Identifier: MIT
-# Copyright (c) 2026 damongatenby
+# Copyright (c) 2026 DeRezzedNightmare
 # Install files only. This script does not add or replace cron jobs.
 set -euo pipefail
 umask 077

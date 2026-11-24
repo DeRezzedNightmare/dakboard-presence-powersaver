@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 # License scope
 
-Copyright (c) 2026 damongatenby.
+Copyright (c) 2026 DeRezzedNightmare.
 
 ## Software: MIT
 
@@ -25,9 +25,9 @@ See [LICENSE](LICENSE) for the complete MIT license.
 The original prose in `README.md`, `README.txt`, this file, and `docs/` uses CC BY 4.0.
 The code examples within these files remain under MIT.
 
-Credit the original author as **damongatenby**.
+Credit the original author as **DeRezzedNightmare**.
 Include the guide title, a license link, and a statement of changes when applicable.
-After publication, also include the repository URL as the source link.
+Source: [DAKboard Presence Powersaver](https://github.com/DeRezzedNightmare/dakboard-presence-powersaver).
 
 See [the full CC BY 4.0 license](LICENSES/CC-BY-4.0.txt).
 The [Creative Commons license page](https://creativecommons.org/licenses/by/4.0/) gives a short summary.
