@@ -1,0 +1,38 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 damongatenby
+# Local device configuration
+occupants.json
+occupants-private.json
+**/occupants.json
+**/occupants-private.json
+
+# Keys and account files
+.ssh/
+**/.ssh/
+*ed25519*
+*.pem
+*.key
+authorized_keys
+known_hosts*
+
+# Runtime data
+*.log
+*.trax
+absent-since
+schedule.json
+*.lock
+.local/
+__pycache__/
+*.pyc
+
+# Backups and editor files
+*backup*/
+*.bak
+*.tmp
+*~
+
+# Social posts
+reddit*
+REDDIT_POST*
+**/reddit*
+**/REDDIT_POST*

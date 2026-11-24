@@ -1,0 +1,4 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 damongatenby
+* * * * * "/home/YOUR_USER/bin/dakboard-powersaver.sh" >> "/home/YOUR_USER/.local/state/dakboard-powersaver/run.log" 2>&1
+*/15 * * * * /usr/bin/python3 "/home/YOUR_USER/bin/dakboard-schedule-sync.py" >> "/home/YOUR_USER/.local/state/dakboard-powersaver/schedule-sync.log" 2>&1
